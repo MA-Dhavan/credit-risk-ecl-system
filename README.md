@@ -7,7 +7,7 @@ development and model validation functions would. See
 ## Status
 
 - [x] Phase 0 — Problem statement
-- [ ] Phase 1 — Data & EDA
+- [x] Phase 1 — Data & EDA
 - [ ] Phase 2 — Feature engineering (WOE/IV)
 - [ ] Phase 3 — PD model (scorecard + challenger)
 - [ ] Phase 4 — Model validation
